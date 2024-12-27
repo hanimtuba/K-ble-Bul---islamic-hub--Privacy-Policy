@@ -71,3 +71,18 @@ By using the Application, you are consenting to the processing of your informati
 
 Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at info@hanimtubaasoft.com.
+NSLocationAlwaysAndWhenInUseUsageDescription:
+Description: "This app requires location access to accurately calculate prayer times and provide you with the direction to the Qibla both in the foreground and background."
+Purpose: "This ensures that you always receive accurate information regardless of the app's state."
+NSLocationAlwaysUsageDescription:
+Description: "This app needs your location at all times to accurately calculate prayer times and show you the direction to the Qibla."
+Purpose: "This allows the app to provide consistent guidance even when it is running in the background."
+NSLocationWhenInUseUsageDescription:
+Description: "This app uses your location only when the app is active to calculate prayer times and show you the direction to the Qibla."
+Purpose: "This ensures that you have accurate direction and time information only while you are using the app."
+NSMotionUsageDescription:
+Description: "This app requires motion data to accurately determine the direction of the Qibla. This enhances the compass accuracy and provides you with the most accurate direction."
+Purpose: "Using motion data, the app can correct for any movements or orientation changes."
+NSLocationTemporaryUsageDescriptionDictionary:
+Description (PreciseLocationUsageDescription): "This app temporarily accesses your precise location to determine the exact direction of the Qibla and to show you the nearest mosques and prayer facilities."
+Purpose: "This feature ensures that you are directed to the nearest and most convenient prayer locations."
